@@ -1,0 +1,1 @@
+# my_codingame_template
